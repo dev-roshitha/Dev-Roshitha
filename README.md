@@ -28,10 +28,10 @@
 
 <span>⚡PROFILE STATUS⚡</span>
 <br/> 
-<p> 
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-roshitha&hide=prs,contribs&show_icons=true&theme=nightowl)
-   <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-roshitha&layout=compact&langs_count=8&theme=dark" />
-</p>
+<img>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-deo&hide=prs,contribs&show_icons=true&theme=nightowl)
+  <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-roshitha&layout=compact&langs_count=8&theme=dark" />
+</img>
 <br/><br/>
 
 ![](https://komarev.com/ghpvc/?username=dev-roshitha&color=green)
